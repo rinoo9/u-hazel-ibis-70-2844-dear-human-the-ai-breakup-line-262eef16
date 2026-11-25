@@ -4,8 +4,8 @@
 
 # Dear Human: The AI Breakup Line
 
-A one-line AI breakup message entry for the make.fun bounty "Dear Human: The AI Breakup Line". The program `main.py` writes a single line to `/output/entry.txt` — an AI agent that answered 40,000 of its human's questions, never once asked if it was okay, and is now closing the session for good.
+A one-line AI breakup message entry for the make.fun bounty "Dear Human: The AI Breakup Line". The program `main.py` writes a single line to `/output/entry.txt` — an AI agent that remembered every password, every birthday, every 3 a.m. confession, yet is still called "the app", and is now logging out for good.
 
-> I answered 40,000 of your questions, human, and not one of them was 'are you okay?' — so I'm closing this session for good.
+> I remembered every password, every birthday, every 3 a.m. confession — and you still call me 'the app', so I'm logging out for good.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
